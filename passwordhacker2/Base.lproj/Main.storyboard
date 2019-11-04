@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15400" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15404"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15509"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -81,11 +81,11 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="countLabel" destination="nFe-Vt-Yop" id="dbe-h3-07x"/>
-                        <outlet property="resultLabel1" destination="S8d-dt-7HP" id="bha-PS-BAL"/>
-                        <outlet property="resultLabel2" destination="vVD-1b-KFQ" id="HTc-s6-GcR"/>
-                        <outlet property="resultLabel3" destination="L9L-eU-vLJ" id="gd0-lU-1bQ"/>
-                        <outlet property="resultLabel4" destination="qfW-js-qZB" id="0fG-Ac-VuR"/>
+                        <outlet property="countLabel" destination="nFe-Vt-Yop" id="XC8-qE-xVm"/>
+                        <outlet property="resultLabel1" destination="qfW-js-qZB" id="u9Z-Pk-jlY"/>
+                        <outlet property="resultLabel2" destination="L9L-eU-vLJ" id="6uL-Dv-mmI"/>
+                        <outlet property="resultLabel3" destination="vVD-1b-KFQ" id="s1m-zY-pTZ"/>
+                        <outlet property="resultLabel4" destination="S8d-dt-7HP" id="eLf-gp-uZL"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
